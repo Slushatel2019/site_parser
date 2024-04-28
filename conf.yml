@@ -1,0 +1,6 @@
+user:
+  email: your@email
+  password: your_password
+url:
+  login: login_url
+  find: page_url
